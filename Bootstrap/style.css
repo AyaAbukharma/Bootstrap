@@ -1,0 +1,38 @@
+body{
+    background: url(com.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1{
+    margin-top: 50px;
+    font-size: 3rem;
+    color: aliceblue;
+}
+hr{
+ margin: 20px auto;
+  color: #ffffff;
+  border: 3px solid #fefefe;
+  max-width: 65px;
+  opacity: 1;  
+}
+.buffer {
+    height: 30rem;
+  
+  }
+.btn{
+    padding:1rem 2rem;
+    font-weight: 1000%;
+    border-radius: 300px;
+    text-transform: uppercase;
+    margin-left: 10px;
+    
+
+
+}
+.btn:hover{
+    background-color: aquamarine;
+    border-color: aquamarine;
+    border-width:4px;
+}
